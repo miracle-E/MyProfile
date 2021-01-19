@@ -1,3 +1,3 @@
 # MyProfile
-This is an update for the main branch
+This is an update for the develop branch
 
